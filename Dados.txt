@@ -1,2 +1,3 @@
 Nome: Arthur
 email: arthurhenriquebragasilva2002@uni9.edu.br
+Data de nascimento: 11 de março de 2002
